@@ -1,0 +1,3 @@
+[2020-10-05 21:04:55.253] [sharedprocess] [info] main {"machineId":"b53f39c1c2f9af8f5da59c9e30bcf2ec15f2290230a22309d46265932d7b9cc2","windowId":2}
+[2020-10-05 21:04:55.338] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/~/root/User/snippets'
+[2020-10-05 21:05:35.280] [sharedprocess] [info] Starting to clean up unused language packs.
