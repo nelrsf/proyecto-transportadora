@@ -1,0 +1,30 @@
+<button type="button" class="btn btn-success my-3 mx-3" [routerLink]="['/sender-form']">Agregar</button>
+
+<table class="table table-hover mx-3">
+    <thead>
+      <tr>
+        <th scope="col">id</th>
+        <th scope="col">Nombre</th>
+        <th scope="col">Apellido</th>
+        <th scope="col">Telefono</th>
+        <th scope="col">Direccion</th>
+        <th scope="col"></th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let sender of senders">
+        <td>{{sender.id}}</td>
+        <td>{{sender.nombre}}</td>
+        <td>{{sender.apellido}}</td>
+        <td>{{sender.telefono}}</td>
+        <td>{{sender.direccion}}</td>
+        <td>
+          <button type="button" (click)="updateFormSender(sender.id)" class="btn btn-primary" name="update_{{sender.id}}">Actualizar</button>
+        </td>
+        <td>
+          <button type="button" (click)="deleteSender(sender.id)" class="btn btn-danger" name="delete_{{sender.id}}">Eliminar</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>

@@ -1,0 +1,1909 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app.module.ts
+> git cat-file -s 8444af017aacfa11dd9c465fc07f58547e93635b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app.module.ts
+> git cat-file -s 8444af017aacfa11dd9c465fc07f58547e93635b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/models/Sender.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/models/Sender.ts
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app.module.ts
+> git cat-file -s 8444af017aacfa11dd9c465fc07f58547e93635b
+> git show --textconv :src/app/models/Sender.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/models/Sender.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app.module.ts
+> git cat-file -s 8444af017aacfa11dd9c465fc07f58547e93635b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app.module.ts
+> git cat-file -s 8444af017aacfa11dd9c465fc07f58547e93635b
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app.module.ts
+> git cat-file -s 8444af017aacfa11dd9c465fc07f58547e93635b
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app.module.ts
+> git cat-file -s 8444af017aacfa11dd9c465fc07f58547e93635b
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app-routing.module.ts
+> git cat-file -s 4d666b662e8872129d9b31de9c2526dceeba68ef
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app.module.ts
+> git cat-file -s 8444af017aacfa11dd9c465fc07f58547e93635b
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app.module.ts
+> git cat-file -s 8444af017aacfa11dd9c465fc07f58547e93635b
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app.module.ts
+> git cat-file -s 8444af017aacfa11dd9c465fc07f58547e93635b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/views/sender-list.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-list.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/views/sender-list.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/views/sender-list.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-list.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git status -z -u
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app.module.ts
+> git cat-file -s 8444af017aacfa11dd9c465fc07f58547e93635b
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app.module.ts
+> git cat-file -s 8444af017aacfa11dd9c465fc07f58547e93635b
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git show --textconv :src/app/views/sender-list.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-list.component.html
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-list.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-list.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-list.component.html
+> git status -z -u
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/views/sender-list.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/components/sender-form-update/sender-form-update.component.spec.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update/sender-form-update.component.spec.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form-update/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update/sender-form-update.component.ts
+> git show --textconv :src/app/components/sender-form-update/sender-form-update.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update/sender-form-update.component.html
+> git show --textconv :src/app/views/sender-form-update.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form-update.component.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app.module.ts
+> git cat-file -s 8444af017aacfa11dd9c465fc07f58547e93635b
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git show --textconv :src/app/views/sender-form-update.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form-update.component.html
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app-routing.module.ts
+> git cat-file -s 4d666b662e8872129d9b31de9c2526dceeba68ef
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app-routing.module.ts
+> git cat-file -s 4d666b662e8872129d9b31de9c2526dceeba68ef
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app-routing.module.ts
+> git cat-file -s 4d666b662e8872129d9b31de9c2526dceeba68ef
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/models/Sender.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/models/Sender.ts
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form-update.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form-update.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-list.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form-update.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form-update.component.html
+> git show --textconv :src/app/views/sender-list.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-list.component.html
+> git show --textconv :src/app/views/sender-form-update.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form-update.component.html
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app-routing.module.ts
+> git cat-file -s 4d666b662e8872129d9b31de9c2526dceeba68ef
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form-update.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form-update.component.html
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/app-routing.module.ts
+> git cat-file -s 4d666b662e8872129d9b31de9c2526dceeba68ef
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-form-update.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form-update.component.html
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-list.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-list.component.html
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/views/sender-form-update.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form-update.component.html
+> git show --textconv :src/app/components/sender-form.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form.component.ts
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/views/sender-form-update.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form-update.component.html
+> git show --textconv :src/app/views/sender-form.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form.component.html
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/views/sender-form-update.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form-update.component.html
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git status -z -u
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git show --textconv :src/app/views/sender-form-update.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form-update.component.html
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/views/sender-form-update.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-form-update.component.html
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git show --textconv :src/app/components/sender-form-update.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-form-update.component.ts
+> git show --textconv :src/app/services/sender.service.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/services/sender.service.ts
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/views/sender-list.component.html
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/views/sender-list.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/components/sender-list.component.ts
+> git ls-files --stage -- /home/nelson/Documents/Sitios Web/Proyecto final/Proyecto-transportadora/src/app/components/sender-list.component.ts
