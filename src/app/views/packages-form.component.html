@@ -1,0 +1,95 @@
+<form class="mx-5">
+    <div class="card p-3 m-3">
+        <h4 class="title my-3">INGRESE EL ID DEL REMITENTE</h4>
+
+        <div class="form-row my-3">
+            <div class="col-md-2 py-2">
+                <h5 class="title">Id de remitente</h5>
+            </div>
+            <div class="form-group col-md-2">
+              <input #box1 type="text" (keyup.enter)="findSender(box1.value)" name="nombreSenderId" class="form-control">
+            </div>
+        </div>
+    
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="inputEmail4">Nombre</label>
+            <input type="text" [ngModel]="sender.nombre" name="nombreS" class="form-control" readonly>
+          </div>
+          <div class="form-group col-md-6">
+            <label for="inputPassword4">Apellido</label>
+            <input type="texto" [ngModel]="sender.apellido" name="apellidoS" class="form-control" readonly>
+          </div>
+        </div>
+    
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="inputPassword4">Telefono</label>
+            <input type="number" [ngModel]="sender.telefono" name="telefonoS" class="form-control" readonly>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="inputAddress">Direccion</label>
+          <input type="text" [ngModel]="sender.direccion" name="direccionS" class="form-control" readonly>
+        </div>
+    </div>
+  
+
+    <div class="card p-3 m-3">
+        <h4 class="title my-3">INGRESE EL ID DEL DESTINATARIO</h4>
+
+        <div class="form-row my-3">
+            <div class="col-md-2 py-2">
+                <h5 class="title">Id de remitente</h5>
+            </div>
+            <div class="form-group col-md-2">
+              <input #box2 type="text" (keyup.enter)="findReceiver(box2.value)" name="nombreReceiverId" class="form-control">
+            </div>
+        </div>
+    
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="inputEmail4">Nombre</label>
+            <input type="text" [ngModel]="receiver.nombre" name="nombreR" class="form-control" readonly>
+          </div>
+          <div class="form-group col-md-6">
+            <label for="inputPassword4">Apellido</label>
+            <input type="texto" [ngModel]="receiver.apellido" name="apellidoR" class="form-control" readonly>
+          </div>
+        </div>
+    
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="inputPassword4">Telefono</label>
+            <input type="number" [ngModel]="receiver.telefono" name="telefonoR" class="form-control" readonly>
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="inputAddress">Direccion</label>
+          <input type="text" [ngModel]="receiver.direccion" name="direccionR" class="form-control" readonly>
+        </div>
+    </div>
+
+
+  <div class="card m-3 p-3">
+
+    <h4 class="title my-3">INGRESE LA INFORMACION DEL PAQUETE</h4>
+
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="inputweigth">Peso del paquete en Kg</label>
+        <input type="number" [(ngModel)]="package.peso" name="packageweigth" class="form-control">
+      </div>
+    
+      <div class="form-group">
+        <label for="inputdescription">Descripcion del contenido del paquete</label>
+        <input type="text" [(ngModel)]="package.descripcion" name="packagedescription" class="form-control">
+      </div>
+    </div>
+
+   
+  </div>
+
+    <button type="button" (click)="sendPackage()" class="btn btn-primary">Enviar paquete</button>
+
+</form>

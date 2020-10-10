@@ -10,6 +10,10 @@ import { SenderFormComponent } from './components/sender-form.component';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { SenderFormUpdateComponent } from './components/sender-form-update.component';
+import { ReceiversListComponent } from './components/receiver-list.component';
+import { ReceiverFormComponent } from './components/receiver-form.component';
+import { ReceiverFormUpdateComponent } from './components/receiver-form-update.component';
+import { PackagesFormComponent } from './components/packages-form.component';
 
 
 @NgModule({
@@ -19,7 +23,11 @@ import { SenderFormUpdateComponent } from './components/sender-form-update.compo
     FooterComponent,
     SendersListComponent,
     SenderFormComponent,
-    SenderFormUpdateComponent
+    SenderFormUpdateComponent,
+    ReceiversListComponent,
+    ReceiverFormComponent,
+    ReceiverFormUpdateComponent,
+    PackagesFormComponent
   ],
   imports: [
     BrowserModule,

@@ -3,11 +3,12 @@ import { from } from 'rxjs';
 import { Sender } from '../models/Sender';
 import { SenderService } from '../services/sender.service';
 import { Router, RouterModule } from '@angular/router'
+import { GLOBAL } from '../services/global';
 
 
 
 @Component({
-  selector: 'app-users-list',
+  selector: 'app-sender-list',
   templateUrl: '../views/sender-list.component.html',
   styleUrls: ['../views/sender-list.component.css']
 })
@@ -15,6 +16,7 @@ export class SendersListComponent implements OnInit {
 
   senders: Sender[];
   sender: Sender;
+  msg: string="no hay link";
 
   constructor(private senderService: SenderService, private router: Router) { 
     
@@ -28,6 +30,7 @@ export class SendersListComponent implements OnInit {
     this.senderService.getSenders().subscribe(
       (senders) => {this.senders = senders}
     )
+    this.msg=GLOBAL.url;
   }
 
   getSender(id:Number){
