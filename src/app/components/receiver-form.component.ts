@@ -6,8 +6,7 @@ import { ReceiverService } from '../services/receiver.service';
 
 @Component({
   selector: 'app-receiver-form',
-  templateUrl: '../views/receiver-form.component.html',
-  styleUrls: ['../views/receiver-form.component.css']
+  templateUrl: '../views/receiver-form.component.html'
 })
 export class ReceiverFormComponent implements OnInit {
   

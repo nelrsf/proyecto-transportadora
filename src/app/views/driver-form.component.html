@@ -1,0 +1,42 @@
+<form class="mx-5">
+    <h4 class="title my-5">INGRESE LOS DATOS DEL NUEVO CONDUCTOR</h4>
+
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="inputEmail4">Nombre</label>
+        <input type="text" [(ngModel)]="driver.nombre" name="nombreD" class="form-control">
+      </div>
+      <div class="form-group col-md-6">
+        <label for="inputPassword4">Apellido</label>
+        <input type="texto" [(ngModel)]="driver.apellido" name="apellidoD" class="form-control">
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="inputPassword4">vehiculo</label>
+
+
+        <div class="dropdown">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Vehiculo: {{driver.vehiculo}}
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+            <button class="dropdown-item" (click)="driver.vehiculo='Moto'" type="button">Moto</button>
+            <button class="dropdown-item" (click)="driver.vehiculo='Carro 0.5T'" type="button">Carro 0.5T</button>
+            <button class="dropdown-item" (click)="driver.vehiculo='Camioneta 1T'" type="button">Camioneta 1T</button>
+            <button class="dropdown-item" (click)="driver.vehiculo='Camion 5T'" type="button">Camion 5T</button>
+          </div>
+        </div>
+
+        <!--<input type="text" [(ngModel)]="driver.vehiculo" name="vehiculo" class="form-control">-->
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="inputAddress">Placa</label>
+      <input type="text" [(ngModel)]="driver.placa" name="placa" class="form-control">
+    </div>
+   
+    <button type="submit" (click)="create()" class="btn btn-primary">Crear</button>
+
+  </form>

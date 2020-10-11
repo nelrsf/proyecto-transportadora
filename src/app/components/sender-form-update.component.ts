@@ -6,8 +6,7 @@ import { SenderService } from '../services/sender.service';
 
 @Component({
   selector: 'app-sender-form-update',
-  templateUrl: '../views/sender-form-update.component.html',
-  styleUrls: ['../views/sender-form-update.component.css']
+  templateUrl: '../views/sender-form-update.component.html'
 })
 export class SenderFormUpdateComponent implements OnInit {
 

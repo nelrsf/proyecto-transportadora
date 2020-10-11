@@ -1,0 +1,28 @@
+<button type="button" class="btn btn-success my-3 mx-3" [routerLink]="['/package-form']">Agregar</button>
+
+<table class="table table-hover mx-3">
+    <thead>
+      <tr>
+        <th scope="col">id</th>
+        <th scope="col">Descripcion</th>
+        <th scope="col">Remitente</th>
+        <th scope="col">Destinatario</th>
+        <th scope="col">Conductor</th>
+        <th scope="col">Peso</th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor= "let package of _packages; index as i">
+        <td>{{package.id}}</td>
+        <td>{{package.descripcion}}</td>
+        <td>{{senders[i].nombre}} {{senders[i].apellido}}</td>
+        <td>{{receivers[i].nombre}} {{receivers[i].apellido}}</td>
+        <td>{{drivers[i].nombre}} {{drivers[i].apellido}}</td>
+        <td>{{package.peso}} kg</td>
+        <td>
+          <button type="button" class="btn btn-danger" (click)="deletePackage(package.id)" name="delete{{package.id}}" >Eliminar</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>

@@ -1,0 +1,42 @@
+<form class="mx-5">
+    <h4 class="title my-5">ACTUALICE LOS DATOS DEL USUARIO {{id}}</h4>
+
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="inputEmail4">Nombre</label>
+        <input type="text" name="nombreD" id="nameD" class="form-control" [(ngModel)]="driver.nombre">
+      </div>
+      <div class="form-group col-md-6">
+        <label for="inputPassword4">Apellido</label>
+        <input type="texto" name="apellidoD" id="apellidoD" class="form-control" [(ngModel)]="driver.apellido">
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="inputPassword4">Vehiculo</label>
+
+
+        <div class="dropdown">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Vehiculo: {{driver.vehiculo}}
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
+            <button class="dropdown-item" (click)="driver.vehiculo='Moto'" type="button">Moto</button>
+            <button class="dropdown-item" (click)="driver.vehiculo='Carro 0.5T'" type="button">Carro 0.5T</button>
+            <button class="dropdown-item" (click)="driver.vehiculo='Camioneta 1T'" type="button">Camioneta 1T</button>
+            <button class="dropdown-item" (click)="driver.vehiculo='Camion 5T'" type="button">Camion 5T</button>
+          </div>
+        </div>
+
+        
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="inputAddress">Placa</label>
+      <input type="text" name="placa" id="placa" class="form-control" [(ngModel)]="driver.placa">
+    </div>
+   
+    <button type="submit" (click)="updateDriver()" class="btn btn-primary">Actualizar</button>
+
+  </form>

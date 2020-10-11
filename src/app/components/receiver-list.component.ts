@@ -9,8 +9,7 @@ import { ReceiverService } from '../services/receiver.service';
 
 @Component({
   selector: 'app-receiver-list',
-  templateUrl: '../views/receiver-list.component.html',
-  styleUrls: ['../views/receiver-list.component.css']
+  templateUrl: '../views/receiver-list.component.html'
 })
 export class ReceiversListComponent implements OnInit {
 

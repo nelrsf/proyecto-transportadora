@@ -1,0 +1,30 @@
+<button type="button" class="btn btn-success my-3 mx-3" [routerLink]="['/driver-form']">Agregar</button>
+
+<table class="table table-hover mx-3">
+    <thead>
+      <tr>
+        <th scope="col">id</th>
+        <th scope="col">Nombre</th>
+        <th scope="col">Apellido</th>
+        <th scope="col">Vehiculo</th>
+        <th scope="col">Placa</th>
+        <th scope="col"></th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let driver of drivers">
+        <td>{{driver.id}}</td>
+        <td>{{driver.nombre}}</td>
+        <td>{{driver.apellido}}</td>
+        <td>{{driver.vehiculo}}</td>
+        <td>{{driver.placa}}</td>
+        <td>
+          <button type="button" (click)="updateFormDriver(driver.id)" class="btn btn-primary" name="update_{{driver.id}}">Actualizar</button>
+        </td>
+        <td>
+          <button type="button" (click)="deleteDriver(driver.id)" class="btn btn-danger" name="delete_{{driver.id}}">Eliminar</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>

@@ -7,4 +7,5 @@ export class Package
     peso: Number;
     destinatario: Number;
     remitente: Number;
+    conductor: Number;
 }

@@ -14,6 +14,11 @@ import { ReceiversListComponent } from './components/receiver-list.component';
 import { ReceiverFormComponent } from './components/receiver-form.component';
 import { ReceiverFormUpdateComponent } from './components/receiver-form-update.component';
 import { PackagesFormComponent } from './components/packages-form.component';
+import { PackageListComponent } from './components/package-list.component';
+import { DriversListComponent } from './components/driver-list.component';
+import { DriverFormComponent } from './components/driver-form.component';
+import { DriverFormUpdateComponent } from './components/driver-form-update.component';
+import { IntroComponent } from './intro/intro.component';
 
 
 @NgModule({
@@ -27,7 +32,12 @@ import { PackagesFormComponent } from './components/packages-form.component';
     ReceiversListComponent,
     ReceiverFormComponent,
     ReceiverFormUpdateComponent,
-    PackagesFormComponent
+    PackagesFormComponent,
+    PackageListComponent,
+    DriversListComponent,
+    DriverFormComponent,
+    DriverFormUpdateComponent,
+    IntroComponent,
   ],
   imports: [
     BrowserModule,

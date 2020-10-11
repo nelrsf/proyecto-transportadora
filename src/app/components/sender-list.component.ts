@@ -9,8 +9,7 @@ import { GLOBAL } from '../services/global';
 
 @Component({
   selector: 'app-sender-list',
-  templateUrl: '../views/sender-list.component.html',
-  styleUrls: ['../views/sender-list.component.css']
+  templateUrl: '../views/sender-list.component.html'
 })
 export class SendersListComponent implements OnInit {
 

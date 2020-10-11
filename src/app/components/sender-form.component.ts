@@ -6,8 +6,7 @@ import { Router } from '@angular/router'
 
 @Component({
   selector: 'app-sender-form',
-  templateUrl: '../views/sender-form.component.html',
-  styleUrls: ['../views/sender-form.component.css']
+  templateUrl: '../views/sender-form.component.html'
 })
 export class SenderFormComponent implements OnInit {
   
